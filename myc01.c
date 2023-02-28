@@ -20,5 +20,7 @@ int main()
 
 	scanf_s("%d,%d", &birth, &age); //1989,35 이렇게 입력해야 함
 	printf("birth:%d, age:%d\n", birth, age);
+
+	// 하하하하 이사
 	return 0;
 }
